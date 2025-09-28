@@ -1,6 +1,6 @@
 # 1MD3 Assignment 1 - Test Cases
 
-This repository contains **Pytest test cases** for all five functions in the **1MD3 Assignment #1**. These tests are designed to help students validate their implementations and ensure their code works correctly under various scenarios.
+This repository contains **Pytest test cases** for all five functions in the **1MD3 Assignment #1**. These tests are designed to help students validate their implementations and ensure their code works correctly under various scenarios. This repo is a work in progress so please let me know if I've made any mistakes or not. 
 
 ---
 

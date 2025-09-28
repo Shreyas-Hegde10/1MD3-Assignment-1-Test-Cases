@@ -1,2 +1,32 @@
-# 1MD3-Assignment-1-Test-Cases
-This python file contains test functions for all five functions on the 1MD3 Assignment #1.
+# 1MD3 Assignment 1 - Test Cases
+
+This repository contains **Pytest test cases** for all five functions in the **1MD3 Assignment #1**. These tests are designed to help students validate their implementations and ensure their code works correctly under various scenarios.
+
+---
+
+## Included Test Functions
+
+The test file covers the following functions:
+
+1. **`is_valid_number(num)`**  
+   Checks whether a given string represents a valid number (integer or decimal).  
+
+2. **`is_valid_term(term)`**  
+   Checks whether a string represents a valid algebraic term.  
+
+3. **`approx_equal(x, y, tol)`**  
+   Determines if two numbers are approximately equal within a specified tolerance.  
+
+4. **`degree_of(term)`**  
+   Verifies if the degree of a given algebraic term was provided correctly
+
+5. **`get_coefficient(term)`**  
+   Checks if the coefficient was obtained correctly  
+
+Each function is tested against **valid inputs, invalid inputs, edge cases, and boundary cases** to ensure robustness.
+
+---
+
+## 🛠 Usage
+
+If you end up using the file, make sure to change the import statements to your respective file name and functions. 

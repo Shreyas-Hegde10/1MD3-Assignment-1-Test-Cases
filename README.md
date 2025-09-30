@@ -2,6 +2,8 @@
 
 This repository contains **Pytest test cases** for all five functions in the **1MD3 Assignment #1**. These tests are designed to help students validate their implementations and ensure their code works correctly under various scenarios. This repo is a work in progress so please let me know if I've made any mistakes or not. 
 
+**Note: The test function for the get_coefficient function has not been completed yet.**
+
 ---
 
 ## Included Test Functions
@@ -29,4 +31,17 @@ Each function is tested against **valid inputs, invalid inputs, edge cases, and 
 
 ## 🛠 Usage
 
-If you end up using the file, make sure to change the import statements to your respective file name and functions. 
+1. **Install pytest using a terminal.**
+```
+pip install pytest
+```
+
+2. **Change the import statements to your respective file name and functions.** 
+
+3. **Run the test file in the same project folder as your assignment file.**
+```
+pytest <name of your test file>
+```
+
+4. **After running the test file, the number of failed cases and passed cases should be outputted at the end of the test scenario.**
+<img width="675" height="49" alt="image" src="https://github.com/user-attachments/assets/702b242b-a031-443d-97a7-ea4718d29e5c" />

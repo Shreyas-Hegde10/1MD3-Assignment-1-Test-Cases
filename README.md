@@ -2,7 +2,6 @@
 
 This repository contains **Pytest test cases** for all five functions in the **1MD3 Assignment #1**. These tests are designed to help students validate their implementations and ensure their code works correctly under various scenarios. This repo is a work in progress so please let me know if I've made any mistakes or not. 
 
-**Note: The test function for the get_coefficient function has not been completed yet.**
 
 ---
 
